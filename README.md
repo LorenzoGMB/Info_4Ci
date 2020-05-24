@@ -1,6 +1,7 @@
 # OpenData
 
 **Esercizio 20**
+
 *1) a partire dai siti di ARPA Piemonte o Torino Respira, cercare degli "open data" riguardo a qualità dell'aria o su argomenti che riguardano i cambiamenti climatici o l'ambiente in generale. Cercare i dati in un formato che sia csv oppure json o xml. Comprendere bene il significato dei dati e il loro formato.
 Per fare questo vi sono materiali online ed esempi già postati su classroom.
 
