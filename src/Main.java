@@ -164,7 +164,7 @@ public class Main {
     {
         String File = "file.csv";                                               // nome del file
         String line;                                                            // stringa che conterra ogni linea del file
-        String cvsSplit = ";";                                                  // separatore
+        String cvsSplit = ",";                                                  // separatore
         String[] data;                                                          // arr di stringhe conterra i dati di ogni riga
         
         int counter = 0;                                                        // contatore
